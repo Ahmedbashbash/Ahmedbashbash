@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.facebook.com/ahmadbashbash99 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="ahmedbashbash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="ahmed_bashbash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="ahmadbashbash99 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ahmedbashbash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ahmed_bashbash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,3 +39,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="AhmedBashbash's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ahmedbashbash&show_icons=true&hide_border=true" />
+
+</details>
+
+[instagram]: https://instagram.com/ahmed_bashbash
+[linkedin]: https://linkedin.com/in/ahmedbashbash
+[facebook]: https://www.facebook.com/ahmadbashbash99
