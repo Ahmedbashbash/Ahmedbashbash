@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed 👋
 
-[<img src="https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif"/>]
+[<img src="https://i.pinimg.com/originals/fb/dd/3a/fbdd3a3a214c0e712bb604dea3b3b1e5.gif"/>]
 
 ## I'm a Student at Óbuda university in Hungary!!
 
