@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Ahmed Bashbash 👋
+### Hi there 👋, I'm Ahmed Bashbash 
 
 <img src="https://i.pinimg.com/originals/fb/dd/3a/fbdd3a3a214c0e712bb604dea3b3b1e5.gif"/>
 
