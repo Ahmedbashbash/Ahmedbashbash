@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there, I'm Ahmed Bashbash 👋
 
 <img src="https://i.pinimg.com/originals/fb/dd/3a/fbdd3a3a214c0e712bb604dea3b3b1e5.gif"/>
@@ -46,3 +48,5 @@
 [instagram]: https://instagram.com/ahmed_bashbash
 [linkedin]: https://linkedin.com/in/ahmedbashbash
 [facebook]: https://www.facebook.com/ahmadbashbash99
+
+</div>
