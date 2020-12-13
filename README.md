@@ -6,10 +6,10 @@
 
 ## I'm a Student at Óbuda university in Hungary!!
 
- *🌱 I’m currently learning everything 🤣
- *👯 I’m looking to collaborate with other content creators
- *🥅 2021 Goals: Contribute more to Open Source projects
- *⚡ Fun fact: I am a Gamer 
+ -🌱 I’m currently learning everything 🤣
+ -👯 I’m looking to collaborate with other content creators
+ -🥅 2021 Goals: Contribute more to Open Source projects
+ -⚡ Fun fact: I am a Gamer 
 
 
 ### Connect with me:
