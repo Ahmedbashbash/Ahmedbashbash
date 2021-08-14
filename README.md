@@ -45,7 +45,7 @@
 
 </details>
 
-[instagram]: https://instagram.com/ahmed_bashbash
+[instagram]: https://instagram.com/afb_1999
 [linkedin]: https://linkedin.com/in/ahmedbashbash
 [facebook]: https://www.facebook.com/ahmadbashbash99
 
