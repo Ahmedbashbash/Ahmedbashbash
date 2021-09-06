@@ -6,10 +6,10 @@
 
 ## I'm a Student at Óbuda university in Hungary!!
 
- - 🌱 I’m currently learning everything 🤣
+ - 🌱 I’m currently learning BackEnd developing 🤣
  - 👯 I’m looking to collaborate with other content creators
- - 🥅 2021 Goals: Contribute more to Open Source projects
- - ⚡ Fun fact: I am a Gamer 
+ - 🥅 2021 Goals: Contribute more to Open Source projects, and becoming a full stack developer
+ - ⚡ Fun fact: I am a Gamer and I have some experiences in Photoshop
 
 
 ### Connect with me:
@@ -28,6 +28,7 @@
 <img align="center" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
 <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
 <img align="center" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+<img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 <img align="center" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
 <img align="center" alt="Visual Studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
 <img align="center" alt="atom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/atom.svg" />
