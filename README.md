@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="center" alt="ahmadbashbash99 | Facebook" target="_parent" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center" alt="ahmadbashbash99 | Facebook" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="center" alt="ahmedbashbash | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="ahmed_bashbash | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="ahmed_bashbash | twitter" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
- [<img align="center" alt="ahmed_bashbash | fiverr" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" />][fiverr]
+[<img align="center" alt="ahmed_bashbash | fiverr" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" />][fiverr]
 
 
 <br />
