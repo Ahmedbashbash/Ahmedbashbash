@@ -25,15 +25,15 @@
 
 ### Languages and Tools:
 
-<img align="center" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
-<img align="center" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="center" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
-<img align="center" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
- <img align="center" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="center" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
-<img align="center" alt="Visual Studio code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
-<img align="center" alt="atom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/atom.svg" />
-<img align="center" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<img align="center" alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+<img align="center" alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+<img align="center" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+<img align="center" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+ <img align="center" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+<img align="center" alt="Visual Studio" title="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
+<img align="center" alt="Visual Studio code" title="Visual Studio code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+<img align="center" alt="atom" title="atom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/atom.svg" />
+<img align="center" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
  
 
 
