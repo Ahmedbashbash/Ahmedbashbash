@@ -29,6 +29,7 @@
 <img align="center" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
 <img align="center" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 <img align="center" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+ <img align="center" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 <img align="center" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
 <img align="center" alt="Visual Studio code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
 <img align="center" alt="atom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/atom.svg" />
