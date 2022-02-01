@@ -8,7 +8,7 @@
 
  - 🌱 I’m currently learning BackEnd developing 🤣
  - 👯 I’m looking to collaborate with other content creators
- - 🥅 2021 Goals: Contribute more to Open Source projects, and becoming a full stack developer
+ - 🥅 2022 Goals: Contribute more to Open Source projects, and becoming a full stack developer
  - ⚡ Fun fact: I am a Gamer and I have some experiences in Photoshop
 
 
