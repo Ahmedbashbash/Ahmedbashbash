@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="center" alt="ahmadbashbash99 | Facebook" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" alt="ahmedbashbash | LinkedIn" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="ahmed_bashbash | Instagram" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="ahmed_bashbash | twitter" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
-[<img align="center" alt="ahmed_bashbash | fiverr" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" />][fiverr]
+[<img align="center" alt="ahmadbashbash99 | Facebook" title="Facebook" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center" alt="ahmedbashbash | LinkedIn" title="LinkedIn" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="ahmed_bashbash | Instagram" title="Instagram" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="ahmed_bashbash | twitter" title="twitter" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="center" alt="ahmed_bashbash | fiverr" title="fiverr" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" />][fiverr]
 
 
 <br />
@@ -27,7 +27,7 @@
 
 <img align="center" alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
 <img align="center" alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="center" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+<img align="center" alt="CSS3" title="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 <img align="center" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
  <img align="center" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 <img align="center" alt="Visual Studio" title="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
