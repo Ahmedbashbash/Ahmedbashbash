@@ -4,11 +4,11 @@
 
 <img src="https://i.pinimg.com/originals/fb/dd/3a/fbdd3a3a214c0e712bb604dea3b3b1e5.gif"/>
 
-## I'm a Student at Óbuda university in Hungary!!
+## I'm a flutter developer!!
 
  - 🌱 I’m currently learning BackEnd developing 🤣
  - 👯 I’m looking to collaborate with other content creators
- - 🥅 2022 Goals: Contribute more to Open Source projects, and becoming a full stack developer
+ - 🥅 2025 Goals: Contribute more to Open Source projects, and becoming a full stack developer
  - ⚡ Fun fact: I am a Gamer and I have some experiences in Photoshop
 
 
